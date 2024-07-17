@@ -11,3 +11,11 @@ This application provides a simple sign-up and login functionality using local s
 - Checks for existing emails during sign-up.
 - Stores user data in local storage.
 - Displays a welcome message upon successful login.
+
+
+## Technologies Used
+
+- **HTML**: For the structure of the web application.
+- **CSS**: For styling the application.
+- **JavaScript**: For dynamic functionality and data handling.
+- **Bootstrap**: For responsive design and UI components.
